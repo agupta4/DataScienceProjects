@@ -1,7 +1,7 @@
 Disaster_Tweets_NLP
 ==============================
 
-Analysis and modeling of Disasters Tweets
+Analysis and modeling of Disasters Tweets.
 
 Project Organization
 ------------
